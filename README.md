@@ -12,9 +12,9 @@ Files:
 4. output.zip - output generated from analysis  
 
 
-The link to the data set can be obtained from below:
-http://jmcauley.ucsd.edu/data/amazon/
-https://snap.stanford.edu/data/web-Amazon.html
+The link to the data set can be obtained from below:  
+http://jmcauley.ucsd.edu/data/amazon/  
+https://snap.stanford.edu/data/web-Amazon.html  
 The data set that suited my analysis the best was per-category based. It covers the following categories:  
 Electronics, Movies and TV, CDs and Vinyl, Clothing, Shoes and Jewelry, Home and Kitchen, Kindle Store,
 Sports and Outdoors, Cell Phones and Accessories, Health and Personal Care, Toys and Games, Video
